@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "breakfast",
+            "meal_type": 1
+        },
+        {
+            "id": 2,
+            "name": "lunch",
+            "meal_type": 2
+        },
+        {
+            "id": 3,
+            "name": "dinner",
+            "meal_type": 3
+        }
+    ],
+    "collname": "widgit"
+}

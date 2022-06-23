@@ -1,0 +1,297 @@
+{
+    "users": [
+      {
+        "email": "kumar@gmail.com",
+        "password": "kumar1100",
+        "firstname": "Kumar",
+        "lastname": "S A"
+      },
+      {
+        "email": "arun@gmail.com",
+        "password": "arun6600",
+        "firstname": "Arun",
+        "lastname": "D S"
+      },
+      {
+        "email": "raj1980@gmail.com",
+        "password": "rajravi16",
+        "firstname": "Ravi",
+        "lastname": "Raj"
+      }
+    ],
+    "orders": [
+      {
+       
+        "dish": "Veg Manchow Soup",
+        "price": 160,
+        "isveg": true,
+        "restaurant": "Sangeetha Restaurants"
+      }
+    ],
+    "restaurants": [
+      {
+       
+        "name": "Smoke Hub Barbeque",
+        "address": "T-Nagar",
+        "city": "Chennai",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/19/e1/5c/fe/interior.jpg",
+          "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/6/q/d/m64819-1637833030619f5946c287e.jpg?tr=tr:n-xlarge"
+        ]
+      },
+      {
+        
+        "name": "Sangeetha Restaurants",
+        "address": "Vadapalani",
+        "city": "Delhi",
+        "costfortwo": {"min":0, "max":500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://image3.mouthshut.com/images/imagesp/925816251s.png",
+          "https://media-cdn.tripadvisor.com/media/photo-s/0e/ba/ae/de/photo0jpg.jpg"
+        ]
+      },
+      {
+        
+        "name": "Copper Kitchen",
+        "address": "Porur",
+        "city": "Chennai",
+        "costfortwo": {"min":1500, "max":2000},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Drinks"
+        ],
+        "images": [
+          "https://content.jdmagicbox.com/comp/chennai/n8/044pxx44.xx44.190626194016.e3n8/catalogue/copper-kitchen-chennai-0bwngtysad.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1y-DpoAh3A0_hI8PpAanuSOwoY2OF4ZPr1tXMXFnHr0sq60Titcvk3spOvfl99U0KUfY&usqp=CAU"
+        ]
+      },
+      {
+       
+        "name": "Anjapper Chettinad Restaurant",
+        "address": "Nungabakkam",
+        "city": "Chennai",
+        "costfortwo": {"min":0, "max":500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Snacks"
+        ],
+        "cuisines": [
+          "SouthIndian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://content3.jdmagicbox.com/comp/chennai/q6/044pxx44.xx44.100521115201.l1q6/catalogue/anjappar-chettinad-triplicane-chennai-home-delivery-restaurants-20m3dkk.jpg",
+          "https://content3.jdmagicbox.com/comp/chennai/q6/044pxx44.xx44.100521115201.l1q6/catalogue/anjappar-chettinad-triplicane-chennai-home-delivery-restaurants-20m3dkk.jpg"
+        ]
+      },
+      {
+        
+        "name": "Adyar Ananda Bhavan",
+        "address": "Adayar",
+        "city": "Chennai",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "South Indian"
+        ],
+        "images": [
+          "https://img4.nbstatic.in/tr:w-500/5ba0c245d60180000c6db5f7.jpg",
+          "https://img4.nbstatic.in/tr:w-500/5ba0c245d60180000c6db5f7.jpg"
+        ]
+      },
+      {
+       
+        "name": "Madras Kitchen Company",
+        "address": "Velacherry",
+        "city": "Chennai",
+        "costfortwo": {"min":500, "max":1000},
+        "contact": 98765432100,
+        "mealtypes": [
+          "NightLife"
+        ],
+        "cuisines": [
+          "South Indian",
+          "Drinks"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg",
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg"
+        ]
+      },
+      {
+       
+        "name": "Hotel vijaya",
+        "address": "Ariankuppam",
+        "city": "Pondicherry",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+       
+        "name": "Sk Restaurants",
+        "address": "Kurumbapet",
+        "city": "Pondicherry",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+       
+        "name": "Anjapper",
+        "address": "villianur",
+        "city": "Pondicherry",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      },
+      {
+       
+        "name": "Fine Kitchen",
+        "address": "Ozhukarai",
+        "city": "Pondicherry",
+        "costfortwo": {"min":1000, "max":1500},
+        "contact": 98765432100,
+        "mealtypes": [
+          "Lunch",
+          "NightLife",
+          "Snacks"
+        ],
+        "cuisines": [
+          "North Indian",
+          "Fast Food"
+        ],
+        "images": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/18/e1/90/ba/ambience.jpg"
+        ],
+        "thumbnail": "https://preview.pixlr.com/images/450nwm/1442/2/1442101033.jpg"
+      }
+    ],
+    "locations": [
+      {
+        "address": "T.Nagar",
+        "city": "Chennai"
+      },
+      {
+        "address": "Vadapalani",
+        "city": "Chennai"
+      },
+      {
+        "address": "Porur",
+        "city": "Chennai"
+      },
+      {
+        "address": "Nungambakkam",
+        "city": "Chennai"
+      }, {
+        "address": "Adayar",
+        "city": "Chennai"
+      },
+      {
+        "address": "Velacherry",
+        "city": "Chennai"
+      },{
+        "address":"Ariankuppam",
+        "city":"Pondicherry"
+      }, {
+        "address":"Kurumbapet",
+        "city":"Pondicherry"
+      }, {
+        "address":"villianur",
+        "city":"Pondicherry"
+      },{
+        "address":"Ozhukarai",
+        "city":"Pondicherry"
+      }, {
+          "address": "Ashok Nagar",
+          "city": "Chennai"
+      }, {
+        "address": "Anna Nagar",
+        "city": "Chennai"
+      }, {
+        "address": "Egmore",
+        "city": "Chennai"
+      }, {
+        "address": "Besant Nagar",
+        "city": "Chennai"
+      }, {
+        "address": "Ramapuram",
+        "city": "Chennai"
+      }, {
+        "address": "Mylapore",
+        "city": "Chennai"
+      }, {
+        "address": "Alwarpet",
+        "city": "Chennai"
+      }
+    ]
+  }
+  
+  

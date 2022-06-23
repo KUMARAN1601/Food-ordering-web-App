@@ -1,0 +1,23 @@
+.heading {
+  height: 43px;
+  font-family: Poppins;
+  font-size: 30px;
+  color: #192f60;
+  margin-bottom: 20px;
+}
+
+.subheading {
+  height: 25px;
+  font-family: Poppins;
+  font-size: 18px;
+  color: #192f60;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.card{
+  border-radius: 0%;
+  box-shadow: 0px 3px 3px 0px #dee2e6;
+  margin-bottom: 10px;
+  border-color: #fff;
+}

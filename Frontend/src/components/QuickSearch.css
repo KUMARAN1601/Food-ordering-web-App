@@ -1,0 +1,41 @@
+.heading {
+  height: 43px;
+  font-family: Poppins;
+  font-size: 30px;
+  color: #192f60;
+}
+
+.subheading {
+  height: 25px;
+  font-family: Poppins;
+  font-size: 18px;
+  color: #8c96ab;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.card{
+  border-radius: 0%;
+  box-shadow: 0px 3px 3px 0px #dee2e6;
+  margin-bottom: 10px;
+  border-color: #fff;
+  cursor: pointer;
+}
+
+.card-text{
+  color: #8c96ab;
+  font-size: 20px;
+}
+
+.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden
+}
+.fill img {
+  object-fit: cover;
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+} 

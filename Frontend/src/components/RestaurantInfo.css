@@ -1,0 +1,50 @@
+.tabhead{
+  border-bottom: solid 3px red;
+  font-family: Poppins;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #192f60;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  text-decoration: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: #192f60;
+  border-radius: 0%;
+  font-style: normal;
+  border-bottom: solid 3px #ce0505;
+  font-family: Poppins;
+  font-size: 18px;
+  background-color: white;
+}
+
+.about {
+  height: 35px;
+  font-family: Poppins;
+  font-size: 22px;
+  color: #192f60;
+}
+
+.cuisine {
+  height: 25px;
+  font-family: Poppins;
+  font-size: 18px;
+  color: #192f60;
+}
+
+.cuisines {
+  height: 30px;
+  font-size: 16px;
+  color: #192f60;
+}
+
+/* .tabborder{
+  border-bottom: solid 1px #aaa;
+}
+ */
